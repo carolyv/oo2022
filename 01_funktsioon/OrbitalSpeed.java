@@ -18,3 +18,7 @@ public class OrbitalSpeed {
         System.out.println("Rahvusvaheline kosmosejaam tiirleb kiirusel " + String.format("%.3f", getOrbitalSpeed(408)) + " m/s");
     }
 }
+/* OUTPUT
+Kuu tiirleb kiirusel 1018.272 m/s
+Rahvusvaheline kosmosejaam tiirleb kiirusel 7667.835 m/s
+*/
