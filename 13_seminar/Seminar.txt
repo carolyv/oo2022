@@ -1,0 +1,16 @@
+Automaattestid rakenduse kavandamise juures
+
+Rakenduse arendamise puhul on oluline, et see oleks võimalikult n-ö "error-free". See on tähtis arendamise ja kavandamise käigus, et arendus toimuks sujuvalt ja arendaja oleks pidevalt kursis sellega, mida tema programm teeb ja peaks tegema. 
+
+Kasutaja puhul on tähtis, et kasutajal oleks programmi hea ja mugav kasutada.
+Rakenduse kavandamise poolel võib luua siis testplaane, mis koodi valmimisel hõlpsustavad reaalse automaattesti loomist. Kavandamise juures automaattestimine võib olla näiteks kasutaja hiire klõpsimise ja klahvivajutuse jäljendamine. Et see aitab omakorda kaasa User interfacei ja user experiencei paremaks arusaamaks.
+
+Miks rakenduse kavandamisel tuleks kaaluda automaattestide kasutamist?
+
+1) Automaattestid hoiavad palju aega kokku. Näiteks pidevalt manuaalselt testimine on väga aeganõudev võrreldes paari koodirea kirjutamisega, mis sinu eest koodi ise testib. Samuti on automaattestimine väga kasulik, kui tahta teha korduvaid testimisi enda koodi suhtes.
+
+2) Samuti võivad automaattestid olla täpsemad, kui inimese poolt testimine. Inimene võib testimise käigus teha vigu, kuid masin käitub ainult nii nagu temale on ette nähtud.
+
+3) Automaattestimisega saab kiire tagasiside.
+
+Ehk siis kokkuvõttes tuleks automaattestimist igal juhul oma rakenduse arendamises kaaluda, kuna sellel on mitmeid eeliseid võrreldes manuaalse testimisega.
